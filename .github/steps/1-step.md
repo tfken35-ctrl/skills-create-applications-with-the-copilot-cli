@@ -9,7 +9,7 @@ Duck は新しい Node.js CLI 電卓アプリの開発に向けて準備を進�
 
 GitHub Copilot CLI は、GitHub Copilot のパワーをコマンドラインに直接届ける**スタンドアロンのターミナルアプリケーション**です。npm でインストールでき、開発者に豊かなインタラクティブ体験を提供します。
 
-<img width="60%" height="60%" alt="CopilotCLI" src="../images/copilot-cli.png" />
+<img width="60%" height="60%" alt="CopilotCLI" src="https://github.com/tfken35-ctrl/skills-create-applications-with-the-copilot-cli/blob/main/.github/images/copilot-cli.png?raw=true" />
 
 #### 主要な機能とオプション:
 
@@ -122,9 +122,9 @@ Issue テンプレートは、チームメンバーが Issue を作成する際�
 > [!NOTE]
 > Copilot CLI を起動すると、このフォルダーを信頼済みフォルダーリストに追加するよう求められたり、キーバインドの設定を求められることがあります。両方のプロンプトに **yes** と応答して続行してください。
 
-<img width="60%" height="60%" alt="CopilotCLIAddDir" src="../images/copilot-cli-add-directory.png" />
+<img width="60%" height="60%" alt="CopilotCLIAddDir" src="https://github.com/tfken35-ctrl/skills-create-applications-with-the-copilot-cli/blob/main/.github/images/copilot-cli-add-directory.png?raw=true" />
 <br />
-<img width="60%" height="60%" alt="CopilotCLITerminalBindings" src="../images/copilot-cli-terminal-bindings.png" />
+<img width="60%" height="60%" alt="CopilotCLITerminalBindings" src="https://github.com/tfken35-ctrl/skills-create-applications-with-the-copilot-cli/blob/main/.github/images/copilot-cli-terminal-bindings.png?raw=true" />
 
 
 2. Copilot CLI で GitHub に認証します（まだ認証していない場合）：
@@ -200,7 +200,7 @@ Issue テンプレートは、チームメンバーが Issue を作成する際�
 > Issue の作成には **yes** と応答し、
 > **「はい、残りのセッション中も `gh issue` または `git config` を承認します」** と応答してください。
 
-<img width="60%" height="60%" alt="CopilotCLIPerms" src="../images/copilot-cli-permissions.png" />
+<img width="60%" height="60%" alt="CopilotCLIPerms" src="https://github.com/tfken35-ctrl/skills-create-applications-with-the-copilot-cli/blob/main/.github/images/copilot-cli-permissions.png?raw=true" />
 
 <details>
 <summary>うまくいかない場合は？ 🤷</summary><br/>
